@@ -1,0 +1,15 @@
+.DS_Store
+*/.DS_Store
+
+/venv
+
+*.ipynb_checkpoints
+__pycache__/
+
+*.zip
+*/ml-25m
+/ml-25m
+*/ml-latest-small
+
+*.npy
+restats
