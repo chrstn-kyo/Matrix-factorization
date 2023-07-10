@@ -1,8 +1,6 @@
-# Assignment 1-22-PCTeam
-
+# Matrix factorisation in recommandation setting
 This is the repository for the 1st Data Science Project. 
-The project focusses on Matrix Factorization.
 
-Christian Kayo
-Nicolas Durat
-Marc Schachtsiek
+- Christian Kayo
+- Nicolas Durat
+- Marc Schachtsiek
